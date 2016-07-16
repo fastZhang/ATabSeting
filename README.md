@@ -1,2 +1,4 @@
-# ATabSeting
-安卓tab标签动态设置
+# Android
+
+*  QuickIndexMaster 通讯录联系人的快速检索
+
